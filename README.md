@@ -25,6 +25,6 @@ This project involves creating a communication program consisting of both a clie
 - **Communication**: The communication between the client and the server is done only using UNIX signals, specifically, SIGUSR1 and SIGUSR2.
 
 ### Bonus Part
-- **Acknowledgment**: In the bonus part, the server acknowledges every message received by sending back a signal to the client.
+- In the bonus part, the server acknowledges every message received by sending back a signal to the client.
 
-- **Unicode Support**: For an additional challenge, consider implementing Unicode character support.
+- For an additional challenge, consider implementing Unicode character support.
